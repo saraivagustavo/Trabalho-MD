@@ -18,4 +18,4 @@ A análise inclui a comparação das fórmulas fechadas e uma discussão sobre a
 Aluno | GitHub | LinkedIn
 :-----------------------:| :--------------: | :------------:
 Gustavo Saraiva Mariano | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-mariano/)
-João Victor Nascimento Ribeiro | [![GitHub](---)](---) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](---)
+João Victor Nascimento Ribeiro | 
