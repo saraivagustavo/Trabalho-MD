@@ -1,4 +1,3 @@
-
 ## Trabalho Prático de Matemática Discreta supervisionado pela Profa. Adriana Padua Lovatte
 
 ### Sobre o projeto:
@@ -14,9 +13,16 @@
 
 A análise inclui a comparação das fórmulas fechadas e uma discussão sobre a eficiência relativa dos dois algoritmos em termos de complexidade de tempo e espaço.
 
+### Pastas
+
+- **Códigos**: Contém as implementações dos algoritmos Bubble Sort e Merge Sort em Python. Esses códigos demonstram a funcionalidade e a aplicação prática dos algoritmos analisados.
+
+- **Especificações**: Inclui um arquivo PDF com as especificações detalhadas do projeto. O documento aborda os objetivos, metodologias e análises realizadas para os algoritmos de ordenação.
+
+- **Trabalho**: Apresenta o PDF do trabalho finalizado, que segue todas as especificações do projeto. Este documento contém a descrição completa das análises, sequências de recorrência e fórmulas fechadas dos algoritmos estudados.
+
 ### Integrantes do projeto
 Aluno | GitHub | LinkedIn
 :-----------------------:| :--------------: | :------------:
 Gustavo Saraiva Mariano | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-mariano/)
 João Victor Nascimento Ribeiro | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/PedroAlbaniNunes) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-albani-nunes-33a729270/)
-
